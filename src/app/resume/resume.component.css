@@ -1,0 +1,232 @@
+                             /* ======================================*/
+                                     /* STARTING-OF-CODE */
+                            /* ======================================= */
+ .topheading{
+    padding:5%;
+    background-color: #273646;
+    color:black;
+}
+.headline{
+    text-align:center;
+    color:white;
+    font-weight:bolder;
+}
+
+/* base-box */
+.main-box{
+    background-color:#273646;
+}
+
+/* LEFT-BOX & PROFILE-BOX_STARTING */
+.left-box{
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.644);
+    background-color:rgba(211, 211, 211, 0.5);
+    font-size: 15px;
+    text-align: center;
+    background-color:white;
+    
+}
+.profilebackground{
+    border-radius:60%;
+    box-shadow: 0 0 10px 3px rgb(77, 177, 138); 
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+}
+.profilebackground:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px #bb3756;   
+}
+h3{
+    font-weight:bolder;
+    margin-top:5%;
+}
+.list-unstyled{
+    font-size:20px;
+    text-align: left;
+    color:rgb(77, 177, 138);
+}
+.email:hover{
+    text-decoration: underline;
+}
+.github:hover{
+    text-decoration: underline;
+}
+.linkedin:hover{
+    text-decoration: underline;
+}
+.twitter:hover{
+    text-decoration: underline;
+}
+.phone:hover{
+    text-decoration: underline;
+}
+#icon{
+    color:white;
+    padding:2%; 
+    background: black;
+    border-radius:50%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    box-shadow: 0 0 3px 1px black; 
+}
+
+/* ------------------------------------------------- */
+/* LEFT-BOX & PROFILE-BOX-ENDING */
+/* ------------------------------------------------- */
+
+
+/* ------------------------------------------------- */
+/* PERSONAL-INFORMATION-STARTING */
+/* ------------------------------------------------- */
+
+.subhead{
+    text-align:left;
+    margin-top:6%;
+    color:rgb(135, 142, 235);
+    font-size:18px;
+    font-weight:bold
+}
+.subhead-2{
+    text-align: right
+}
+#personalinfo{
+    /* background-color:rgba(144, 238, 144, 0.363); */
+    background-color:rgba(72, 209, 205, 0.349);
+    border-radius:40px;
+    box-shadow: 0 0 10px 3px rgb(77, 177, 138); 
+}
+#personal-information{
+    background-color:rgba(144, 238, 144, 0.753);
+    text-align:center;
+    padding:2%;
+    font-weight:bolder;
+    border-radius:40px;
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index:1;
+}
+#personal-information:hover{
+    transform:scale(1.1);
+}
+h6{
+    text-align:center;
+    font-weight:bold
+}
+
+/* ------------------------------------- */
+/* PERSONAL-INFORMATION-ENDING */
+/* ------------------------------------- */
+
+
+
+/* ------------------------------------- */
+   /* RIGHT-SIDE-BOX-STARTING */
+/* -------------------------------------*/
+
+
+/* carrer Objective & Skills */
+.txt1{
+    text-align: left;
+    color:rgba(17, 22, 22, 0.945)
+}
+.text2{
+   text-align: left;
+}
+/* academic */
+.t1{
+    text-align: left;
+    font-weight:bold;
+}
+.t2{
+   text-align: left;
+   font-weight:lighter;
+}
+.t3{
+   text-align: left;
+   font-weight:bold;
+   color: darkcyan
+}
+.t4{
+   text-align: left;
+   font-weight:bold;
+   color: grey
+  
+}
+.t5{
+   text-align: left;
+   font-weight:lighter;
+  
+}
+
+/* work-experience */
+.e1{
+    text-align: left;
+    font-weight:bold;
+}
+.e2{
+    text-align: left;
+   
+}
+.e3{
+    text-align: left;
+    color:darkcyan
+}
+
+
+.right-box{
+    background-color:white;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.644);
+}
+.tagline{
+    margin-top: 5%;
+    font-size:  30px;
+    font-weight:bold;
+    text-align: center;
+    color: 	rgb(72,209,204);
+    font-style:italic;
+    
+}
+#firstbox{
+    padding-top:0px;
+    padding-bottom:0px;
+    background:contain;
+    height:50px;
+    width:100%;
+    background-color:lightgray;
+    box-shadow: 0 0 3px 1px black;
+    transition: 0.5s;
+    transform:scale(.9);
+    z-index: -1;
+ }
+ #firstbox:hover{
+    transform:scale(1.1);
+    box-shadow: 0 0 15px 5px black;  
+ }
+h5{
+    font-weight:bold;
+    text-align:left;
+    padding:2%
+}
+.subtext-1{
+    text-align:center;
+}
+/* --------------------------------------------- */
+/* right-box-ending */
+/* --------------------------------------------- */
+
+
+                                    /* ======================================== */
+                                                /* ENDING-OF-CODE */
+                                    /*========================================= */
+
+
+    
+
+    
+    
+
+
+  

@@ -1,0 +1,18 @@
+
+.card{
+    margin:20px !important;
+    
+}
+.card:hover{
+    transition: 1s ease-in-out;
+    transform:scale(1.2);
+}
+
+.text{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    background-color: #ffffffc5;
+    color: black;
+    width: 100%;
+  }
